@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ele-demo
 
 > A Vue.js project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue-elm
+>>>>>>> 4f9c9a121dc9701d8c7471947a1c12155140bd61
